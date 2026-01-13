@@ -1,3 +1,5 @@
+> This project is no longer maintained, feel free to fork the project.
+
 # k8s-tiller-history-cleanup
 
 Kubernetes Tiller/Helm Release History Cleanup, a script to cleanup old helm tiller history config maps.
